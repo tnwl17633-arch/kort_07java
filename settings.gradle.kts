@@ -1,0 +1,1 @@
+rootProject.name = "kort_07_java"
